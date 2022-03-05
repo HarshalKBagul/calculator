@@ -5,8 +5,10 @@
     height: 580px;
     width:600px;
     margin:auto;
-    background:linear-gradient(90deg, #92EFFD,#4E65FF );
-}
+    background-image: radial-gradient(circle, #48b1bf 0%, #48b1bf 100%);
+   
+   /* background:linear-gradient(90deg, #92EFFD,#4E65FF ); */
+} 
 .home{
     background-image: url("gif.gif");
     background-size: cover;
